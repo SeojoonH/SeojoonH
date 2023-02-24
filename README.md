@@ -1,5 +1,10 @@
+<a href="https://velog.io/@seojoon"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>  <a href="mailto:iamaloneinseoul@gmail.com"><img src="https://img.shields.io/badge/iamaloneinseoul@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>
+
+
+
 ## Front End Engineer 🧑🏻‍💻
 - I'm trying to be a useful developer.
+
 
 
 ![SeojoonH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeojoonH)
