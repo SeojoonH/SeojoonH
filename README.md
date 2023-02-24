@@ -1,4 +1,4 @@
-<a href="https://velog.io/@seojoon"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>  <a href="mailto:iamaloneinseoul@gmail.com"><img src="https://img.shields.io/badge/iamaloneinseoul@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>
+<a href="https://velog.io/@seojoon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>  <a href="mailto:iamaloneinseoul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iamaloneinseoul@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>
 
 
 
