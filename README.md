@@ -1,4 +1,4 @@
-<a href="https://velog.io/@seojoon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>  <a href="mailto:iamaloneinseoul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iamaloneinseoul@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height: auto; margin-left: 8px; margin-right: 8px;"/></a>
+<a href="https://velog.io/@seojoon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="margin:8px 8px 8px 8px;"/></a>  <a href="mailto:iamaloneinseoul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iamaloneinseoul@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamaloneinseoul@gmail.com" style="margin-left:8px; margin-right:8px;"/></a>
 
 
 
@@ -11,6 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 
