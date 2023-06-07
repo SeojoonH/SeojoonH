@@ -7,7 +7,7 @@
 <div align="center">
   <h2>Front End Engineer 💻 </h2>
   <p>⌘ I'm trying to be a useful Front End Engineer.</p>
-  <p>멈추지 않기 위해 노력하는 개발자가 되고 싶습니다.</p>
+  <p>늘 탐구하고 노력하는 개발자가 되고 싶습니다.</p>
 </div>
 
 ---
